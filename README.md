@@ -4,9 +4,9 @@
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client--Side-success?style=for-the-badge)](https://doittoolz.blogspot.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Welcome to the ultimate collection of **100% Free, Private, and Client-Side Web Tools**. 
+Welcome to the ultimate collection of **over 200+ Free, Private, and Client-Side Web Tools.**. 
 
-All tools process your data **directly inside your browser**. No server uploads, zero wait times, and absolute privacy for your sensitive documents.
+All tools process your data **directly inside your browser**. Experience a beautifully responsive interface with seamless **Dark/Light mode** and **smart category navigation**. No server uploads, zero wait times, and absolute privacy for your sensitive documents.
 
 🌐 **[Visit The Full Tool Hub: DoItToolz](https://doittoolz.blogspot.com/)**
 
@@ -48,9 +48,10 @@ Optimize your listings and analyze profitability for Etsy, Amazon, and Redbubble
 ---
 
 ## 🔒 Why Use Client-Side Tools?
-1. **Privacy:** Your sensitive files never leave your device.
-2. **Speed:** Instant processing using your local browser power.
-3. **No Limits:** No file count or daily usage restrictions.
+1. ​**Privacy:** Your sensitive files never leave your device.
+2. ​**Speed & UI:** Instant processing using your local browser power, wrapped in a fast, 100% mobile-friendly design.
+3. **​Smart UX:** Easily navigate between tools with dynamic filtering and share them instantly with clean social buttons.
+4. ​**No Limits:** No file count or daily usage restrictions.
 
 ⭐ **If you find these tools helpful, please consider giving this repository a star!** ⭐
 
