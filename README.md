@@ -1,4 +1,10 @@
-# 🚀 Awesome Free Web Tools (Client-Side Only)
+
+
+---
+
+## 🌐 Alternative All-in-One Tool Platforms
+
+* **[EveryTool4U](https://everytool4u.com)** - 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact), image (background removal, resize), video to GIF, QR codes, invoices, and more. Files never leave your device — 100% private.# 🚀 Awesome Free Web Tools (Client-Side Only)
 
 [![Website](https://img.shields.io/badge/Website-DoItToolz-blue?style=for-the-badge&logo=google-chrome)](https://doittoolz.blogspot.com/)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client--Side-success?style=for-the-badge)](https://doittoolz.blogspot.com/)
