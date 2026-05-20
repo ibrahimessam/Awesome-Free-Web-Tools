@@ -56,3 +56,10 @@ Optimize your listings and analyze profitability for Etsy, Amazon, and Redbubble
 ⭐ **If you find these tools helpful, please consider giving this repository a star!** ⭐
 
 *Maintained by [DoItToolz](https://doittoolz.blogspot.com/).*
+
+
+---
+
+## 🌐 All-in-One Free Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress, WebP), video to GIF, QR codes, invoices, JSON formatter, Base64, UUID, JWT decoder, hash, password generator. All 100% client-side, zero server upload, works offline, no account.
