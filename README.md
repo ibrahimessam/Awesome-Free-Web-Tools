@@ -25,6 +25,7 @@ Professional tools to manage, convert, and secure your PDF documents instantly.
 * **[PowerPoint to PDF](https://doittoolz.blogspot.com/2026/04/powerpoint-to-pdf.html)** - Save PPT presentations as secure PDF documents.
 * **[PDF to HTML](https://doittoolz.blogspot.com/2026/04/pdf-to-html.html)** - Convert PDF pages into responsive HTML code for web viewing.
 * **[Digital Signature Maker](https://doittoolz.blogspot.com/2026/04/digital-signature-maker.html)** - Draw and download your e-signature as a transparent PNG or PDF.
+* **[PDF Toolbox](https://pdftoolbox-three.vercel.app)** - Free browser-based PDF toolkit: compress, merge, split, convert, protect, unlock. Client-side processing, no uploads.
 
 ### 🎨 2. Amazon KDP & Puzzle Generators
 Essential tools for low-content book publishers, Etsy sellers, and puzzle creators.
