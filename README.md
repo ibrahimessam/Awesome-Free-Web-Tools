@@ -45,6 +45,12 @@ Optimize your listings and analyze profitability for Etsy, Amazon, and Redbubble
 * **[Etsy Profit & Fee Calculator](https://doittoolz.blogspot.com/2026/04/etsy-profit-margin-fee-calculator.html)** - Calculate exact fees and profit margins for your Etsy listings.
 * **[Redbubble & Zazzle Tag Separator](https://doittoolz.blogspot.com/2026/04/redbubble-zazzle-tag-separator.html)** - Instantly format and clean tags for POD platforms.
 
+### 🧠 5. Education & Psychology Tools
+Sharpen your thinking and explore history — all in your browser.
+* **[100 Life Simulators](https://ordinarymantrying.com/tools/simulators.html)** - Make the real decisions of Einstein, Darwin, Tesla, and 97 more historical figures — then see what they actually chose.
+* **[Mind Traps](https://ordinarymantrying.com/tools/mind-traps.html)** - Interactive quiz covering 40 cognitive biases through real-world scenarios. Spot the mental traps that affect your decisions.
+* **[Standup Timer](https://ordinarymantrying.com/tools/standup-timer.html)** - Free browser-based timer designed for daily team standups. Keeps meetings on time with per-person tracking and alerts.
+
 ---
 
 ## 🔒 Why Use Client-Side Tools?
