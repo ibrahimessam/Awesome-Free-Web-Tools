@@ -15,6 +15,8 @@ All tools process your data **directly inside your browser**. Experience a beaut
 ## 📚 Tool Categories
 
 ### 📄 1. PDF & Document Utilities
+
+- [Toolfyra](https://toolfyra.com) — 341 free client-side tools: PDF merge/split/compress/convert, image crop/compress/convert, JSON/CSV/XML converters, calculators. No signup, files never leave your device.
 Professional tools to manage, convert, and secure your PDF documents instantly.
 * **[Merge PDF](https://doittoolz.blogspot.com/2026/04/merge-pdf.html)** - Seamlessly join multiple PDFs into a single file.
 * **[Split PDF](https://doittoolz.blogspot.com/2026/04/split-pdf.html)** - Extract specific pages or divide a large PDF into individual files.
