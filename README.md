@@ -25,6 +25,14 @@ Professional tools to manage, convert, and secure your PDF documents instantly.
 * **[PowerPoint to PDF](https://doittoolz.blogspot.com/2026/04/powerpoint-to-pdf.html)** - Save PPT presentations as secure PDF documents.
 * **[PDF to HTML](https://doittoolz.blogspot.com/2026/04/pdf-to-html.html)** - Convert PDF pages into responsive HTML code for web viewing.
 * **[Digital Signature Maker](https://doittoolz.blogspot.com/2026/04/digital-signature-maker.html)** - Draw and download your e-signature as a transparent PNG or PDF.
+* **[Merge PDF](https://toolpantry.app/merge-pdf)** - Join several PDFs into one file in the order you choose, in the browser.
+* **[Split PDF](https://toolpantry.app/split-pdf)** - Divide a PDF into separate files, or pull out a page range.
+* **[Compress PDF](https://toolpantry.app/compress-pdf)** - Shrink a PDF by rendering its pages at a chosen resolution.
+* **[PDF to JPG](https://toolpantry.app/pdf-to-jpg)** - Render every page as a JPG or PNG; multi-page files arrive as one ZIP.
+* **[Extract PDF Pages](https://toolpantry.app/extract-pdf-pages)** - Keep only the pages you need, in a new PDF.
+* **[Sign PDF](https://toolpantry.app/sign-pdf)** - Place a drawn or uploaded signature onto a PDF page.
+* **[PDF to Word](https://toolpantry.app/pdf-to-word)** - Turn a PDF into an editable Word document.
+* **[Remove PDF Metadata](https://toolpantry.app/pdf-metadata-remover)** - Strip author, producer and scanner tags from a PDF.
 
 ### 🎨 2. Amazon KDP & Puzzle Generators
 Essential tools for low-content book publishers, Etsy sellers, and puzzle creators.
@@ -45,6 +53,9 @@ Optimize your listings and analyze profitability for Etsy, Amazon, and Redbubble
 * **[Etsy Profit & Fee Calculator](https://doittoolz.blogspot.com/2026/04/etsy-profit-margin-fee-calculator.html)** - Calculate exact fees and profit margins for your Etsy listings.
 * **[Redbubble & Zazzle Tag Separator](https://doittoolz.blogspot.com/2026/04/redbubble-zazzle-tag-separator.html)** - Instantly format and clean tags for POD platforms.
 
+* **[Image Compressor](https://toolpantry.app/image-compressor)** - Compress product photos to an exact byte target for marketplace listings.
+* **[QR Code Generator](https://toolpantry.app/qr-code-generator)** - Make a QR code for a URL, text, email or phone number, with no expiry.
+* **[Favicon Generator](https://toolpantry.app/favicon-generator)** - Turn one image into a full favicon set for every size browsers ask for.
 ---
 
 ## 🔒 Why Use Client-Side Tools?
