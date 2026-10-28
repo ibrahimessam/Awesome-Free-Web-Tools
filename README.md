@@ -45,6 +45,11 @@ Optimize your listings and analyze profitability for Etsy, Amazon, and Redbubble
 * **[Etsy Profit & Fee Calculator](https://doittoolz.blogspot.com/2026/04/etsy-profit-margin-fee-calculator.html)** - Calculate exact fees and profit margins for your Etsy listings.
 * **[Redbubble & Zazzle Tag Separator](https://doittoolz.blogspot.com/2026/04/redbubble-zazzle-tag-separator.html)** - Instantly format and clean tags for POD platforms.
 
+### 🏠 5. Home & Image Utilities
+Free browser tools for room planning and before-and-after images. Processing stays in the browser.
+* **[Spaceora Before & After Photo Maker](https://spaceora.app/before-and-after-photo-maker)** - Combine two photos into a side-by-side, stacked, or split before-and-after PNG. Free download, no sign-up, no watermark.
+* **[Spaceora Rug Size Calculator](https://spaceora.app/rug-size-calculator)** - Find a rug size for a living room, dining room, or bedroom and download a scale plan. Free, no sign-up.
+
 ---
 
 ## 🔒 Why Use Client-Side Tools?
